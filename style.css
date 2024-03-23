@@ -113,3 +113,9 @@ ul li span {
 ul li span:hover {
   background: #edeef0;
 }
+.copyright {
+  color: white;
+  margin-left: 93%;
+  position: relative;
+  top: 190px;
+}

@@ -5,4 +5,10 @@
   .todo-app {
     margin: 50% auto 20px;
   }
+  .copyright {
+    color: white;
+    margin-left: 75%;
+    position: relative;
+    top: 200px;
+  }
 }
